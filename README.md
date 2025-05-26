@@ -65,13 +65,6 @@ Puedes obtener el dataset desde el siguiente enlace:
 - Entrenamiento y visualización de clusters.
 - Evaluación de la correspondencia entre clusters y clases reales (sin usar las etiquetas).
 
----
-
-## 📊 Resultados esperados
-
-- Reducción de >90% de las dimensiones originales sin perder rendimiento.
-- Clasificación de precisión alta (>95%) usando Random Forest.
-- Descubrimiento de estructuras latentes con KMeans, sin necesidad de etiquetas.
 
 ---
 
