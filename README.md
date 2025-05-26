@@ -72,10 +72,11 @@ Puedes obtener el dataset desde el siguiente enlace:
 
 Se considerarán los siguientes criterios:  
 
-Competencia:   Competencia:  Evaluar conjuntos de datos utilizando herramientas de análisis y de visualización de datos
+Competencia:  Evaluar conjuntos de datos utilizando herramientas de análisis y de visualización de datos
   
 ✅ Uso y gestión de formato .csv  
 ✅ Limpieza y preprocesado de datos  
+✅ Visualización de datos (seaborn, matplotlib, plotly)
 ✅ Análisis exploratorio detallado (EDA)  
 ✅ Uso de técnicas de preprocesado (normalización, escalado, label encoder, one hot encoder)    
 ✅ Uso de técnicas avanzadas de limpieza de datos (eliminación de valores atípicos, imputación de valores faltantes)  
@@ -89,7 +90,7 @@ Competencia:  Aplicar algoritmos de aprendizaje automático según el problema, 
 ✅ Aplicar modelos de clustering  
 ✅ Reconocer si es un problema de regresión o de clasificación      
 ✅ Separación de datos en train/test  
-✅ Entrenar un modelo simple de ML (SVM, Logistic Regression, Linear Regression, Decission Tree, Naive Bayes)  
+✅ Uso modelos de ensemble (RandomForest, GradientBoosting, AdaBoost, XGBoost, LightGBM)  
   
 Más detalles en: [roadmap-mad-ai-p4.coderf5.es](https://roadmap-mad-ai-p4.coderf5.es/)  
 
