@@ -76,7 +76,7 @@ Competencia:  Evaluar conjuntos de datos utilizando herramientas de análisis y 
   
 ✅ Uso y gestión de formato .csv  
 ✅ Limpieza y preprocesado de datos  
-✅ Visualización de datos (seaborn, matplotlib, plotly)
+✅ Visualización de datos (seaborn, matplotlib, plotly)  
 ✅ Análisis exploratorio detallado (EDA)  
 ✅ Uso de técnicas de preprocesado (normalización, escalado, label encoder, one hot encoder)    
 ✅ Uso de técnicas avanzadas de limpieza de datos (eliminación de valores atípicos, imputación de valores faltantes)  
