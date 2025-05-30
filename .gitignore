@@ -141,3 +141,4 @@ cython_debug/
 
 # Mushroom Data
 data/
+data/*
