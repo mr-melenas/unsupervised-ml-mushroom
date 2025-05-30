@@ -93,9 +93,3 @@ Competencia:  Aplicar algoritmos de aprendizaje automático según el problema, 
 ✅ Uso modelos de ensemble (RandomForest, GradientBoosting, AdaBoost, XGBoost, LightGBM)  
   
 Más detalles en: [roadmap-mad-ai-p4.coderf5.es](https://roadmap-mad-ai-p4.coderf5.es/)  
-
-
-
-
-
-
